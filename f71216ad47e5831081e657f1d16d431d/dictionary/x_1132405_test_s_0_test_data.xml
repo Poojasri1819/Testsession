@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="e0629ead47e5831081e657f1d16d433e" label="Test data" max_length="40" name="x_1132405_test_s_0_test_data" type="collection">
         <element label="Description" max_length="40" name="description" type="string"/>
-        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element display="true" label="Comments" max_length="40" name="comments" type="string"/>
     </element>
 </database>
